@@ -3,3 +3,4 @@ require("config.lazy")
 require("plugins.colorscheme")
 require("config.dashboard")
 --vai brincano
+--tome
